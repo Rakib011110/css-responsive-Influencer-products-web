@@ -98,18 +98,19 @@ nav ul li {
   margin: 0px;
   display: inline-block;
   float: left;
-  background-color: white;
+  background-color: orange;
 }
 
 /* Styling the links */
 nav a {
   display: block;
   padding: 14px 20px;
-  color: #fff;
+  /* color: orange; */
   font-size: 20px;
   font: bold;
   text-decoration: none;
-  color: blue;
+  /* color: blue; */
+  color: orange;
 }
 
 nav ul li ul li:hover {
