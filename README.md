@@ -1,5 +1,6 @@
 ## css-responsive-Influencer-products-web 
-click: [Go live websit] (file:///G:/PH-HERO-COURSE-CLASS-CODE/Milestone-2/module-10.5/influencer-gear-main/index.html)
+click: [Go live websit](https://creative-melomakarona-19080b.netlify.app/)
+
 
 
 
